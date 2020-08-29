@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fix Deposit App</string>
+
+    <string-array name="time">
+        <item>Years</item>
+        <item>Months</item>
+    </string-array>
+</resources>
